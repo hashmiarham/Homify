@@ -1,4 +1,4 @@
-# Bangalore-Housing-Price-Prediction
+# Homify
 
 ![ML](https://img.shields.io/badge/ML-Regression-blue.svg) 
 
